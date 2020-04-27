@@ -1,5 +1,5 @@
 <p align="center">
-  <img src='https://github.com/chivington/MNIST-Polynomial-Regression-Classifier/blob/master/imgs/mnist.png' alt='MNIST Digits'/>
+  <img width='650' src='https://github.com/chivington/MNIST-Polynomial-Regression-Classifier/blob/master/imgs/mnist.png' alt='MNIST Digits'/>
 </p>
 
 # MNIST-Polynomial-Regression-Classifier
@@ -58,15 +58,15 @@ Feel free to ask me questions on [GitHub](https://github.com/chivington) or [Lin
 
 <br/>
 <p align="center">
-  <img src='https://github.com/chivington/MNIST-Polynomial-Regression-Classifier/blob/master/imgs/random-img.jpg' alt='Random Digit'/>
+  <img width='600' src='https://github.com/chivington/MNIST-Polynomial-Regression-Classifier/blob/master/imgs/random-img.jpg' alt='Random Digit'/>
 </p><br/>
 
 <p align="center">
-  <img src='https://github.com/chivington/MNIST-Polynomial-Regression-Classifier/blob/master/imgs/errors-and-times.jpg' alt='Training & Validation Errors'/>
+  <img width='600' src='https://github.com/chivington/MNIST-Polynomial-Regression-Classifier/blob/master/imgs/errors-and-times.jpg' alt='Training & Validation Errors'/>
 </p><br/>
 
 <p align="center">
-  <img src='https://github.com/chivington/MNIST-Polynomial-Regression-Classifier/blob/master/imgs/classification.jpg' alt='Classification Test'/>
+  <img width='600' src='https://github.com/chivington/MNIST-Polynomial-Regression-Classifier/blob/master/imgs/classification.jpg' alt='Classification Test'/>
 </p>
 <br/><br/>
 
