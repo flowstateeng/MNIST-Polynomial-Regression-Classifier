@@ -56,19 +56,20 @@ Open the file 'mnist_polynomial_regression_classifier.py' and edit the hyperpara
 
 Large values of 'p' will result in increased training times. For my Surface Book (2.81ghz i7, 8gb ram, GeForce 940m), a p-value of 7500 takes ~374 seconds to train and achieves ~4.48% testing error rate, as shown in the images below. The datasets needed to train and make predictions are included and you should not have to move or rename any files or filenames in the code.
 
+Feel free to ask me questions on [GitHub](https://github.com/chivington) or [LinkedIn](https://www.linkedin.com/in/johnathan-chivington/)
+
+<br/>
 <p align="center">
   <img src='https://github.com/chivington/MNIST-Polynomial-Regression-Classifier/blob/master/imgs/random-img.jpg' alt='Random Digit'/>
-</p>
+</p><br/>
 
 <p align="center">
   <img src='https://github.com/chivington/MNIST-Polynomial-Regression-Classifier/blob/master/imgs/errors-and-times.jpg' alt='Training & Validation Errors'/>
-</p>
+</p><br/>
 
 <p align="center">
   <img src='https://github.com/chivington/MNIST-Polynomial-Regression-Classifier/blob/master/imgs/classification.jpg' alt='Classification Test'/>
 </p>
-
-Feel free to ask me questions on [GitHub](https://github.com/chivington) or [LinkedIn](https://www.linkedin.com/in/johnathan-chivington/)
 <br/><br/>
 
 
