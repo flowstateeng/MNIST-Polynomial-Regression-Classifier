@@ -1,8 +1,6 @@
 <p align="center">
-  <img width='650' src='https://github.com/chivington/MNIST-Polynomial-Regression-Classifier/blob/master/imgs/mnist.png' alt='MNIST Digits'/>
+  <img src='https://github.com/chivington/MNIST-Polynomial-Regression-Classifier/blob/master/imgs/mnist.png' alt='MNIST Digits'/>
 </p>
-
-
 
 # MNIST-Polynomial-Regression-Classifier
 This is a Polynomial Regression model that learns to classify hand-written digits from the MNIST dataset. Try different values for 'lambda' and 'p' to experiment with output.
